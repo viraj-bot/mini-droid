@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658452748893",
+    "firebase_url": "https://app-based-health-monitoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "app-based-health-monitoring",
+    "storage_bucket": "app-based-health-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658452748893:android:88bc97593ba07575ff4bb4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658452748893-cd8c7vu9bg22r72jhgq66mt991ibgdop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtCx378srhBc0_0BtzqVItsW7rYCKXik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658452748893-cd8c7vu9bg22r72jhgq66mt991ibgdop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
